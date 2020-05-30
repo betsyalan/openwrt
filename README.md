@@ -1,3 +1,7 @@
+# 下一步计划
+1. 编译成支持jetson nano的固件
+具体步骤：重新生成feeds.conf.default。
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
